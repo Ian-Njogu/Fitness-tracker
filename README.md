@@ -1,17 +1,17 @@
 
-# Fitness tracker
+ Fitness tracker
 
-A brief description of what this project does and who it's for
+A tracker for people who want to keep fit and manage their calories
 
 
-## Acknowledgements
+ Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-## Deployment
+ Deployment
 
 To deploy this project run
 
@@ -20,7 +20,7 @@ To deploy this project run
 ```
 
 
-## Installation
+ Installation
 
 Install my-project with npm
 
@@ -29,12 +29,12 @@ Install my-project with npm
   cd my-project
 ```
     
-## License
+ License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Features
+ Features
 
 - Light/dark mode toggle
 - Live previews
