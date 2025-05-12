@@ -13,7 +13,7 @@ const AuthForm = ({ isLogin = true }) => {
           {/* Email Input */}
           <div className="input-group w-full flex justify-center">
             <label className="flex-shrink-0 h-12 w-12 bg-accent text-white fill-white rounded-l-lg flex justify-center items-center text-2xl font-medium">
-              <svg>...</svg> {/* Replace with your icon */}
+              <svg>...</svg>
             </label>
             <input
               type="email"
@@ -25,7 +25,7 @@ const AuthForm = ({ isLogin = true }) => {
           {/* Password Input */}
           <div className="input-group w-full flex justify-center">
             <label className="flex-shrink-0 h-12 w-12 bg-accent text-white fill-white rounded-l-lg flex justify-center items-center text-2xl font-medium">
-              <svg>...</svg> {/* Replace with your icon */}
+              <svg>...</svg>
             </label>
             <input
               type="password"
